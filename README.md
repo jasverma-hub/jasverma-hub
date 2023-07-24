@@ -1,15 +1,5 @@
 ### Hello there 👋
 
-<!--
-**jasverma-hub/jasverma-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Blockchain for secure cloud computing services
-- 🌱 I’m currently learning Advance Java
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, Machine Learning, Django and MySQL
-- 📫 How to reach me: Twitter - @_jazverma
-- 
--->
+An adaptive, highly focused programmer with the right mixture of Technical and Non-technical abilities to strive towards the growth of the organization.
+Honing my skills in Data Engineering, Data Science, Web and Full-Stack Development.
+Looking for opportunities to grow as a Data Engineer by developing reliable solutions that prove to be beneficial for the organization and society.
