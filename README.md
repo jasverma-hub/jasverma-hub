@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Jas Verm
+## Hello there 👋, I'm Jas Verma
 
 An adaptive, highly focused programmer with the right mixture of Technical and Non-technical abilities to strive towards the growth of the organization.
 Honing my skills in Data Engineering, Data Science, Web and Full-Stack Development.
