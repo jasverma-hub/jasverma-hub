@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jasvermadataengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jasvermadataengineer/" height="30" width="40" /></a>
-<a href="https://instagram.com/@_jasverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_jasverma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/jazverma101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jazverma101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/jasverma2128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jasverma2128/" height="30" width="40" /></a>
+<a href="https://twitter.com/_jazverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jazverma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jas verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jas verma" height="30" width="40" /></a>
+<a href="https://instagram.com/_jasverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jasverma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jazverma101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jazverma101" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jasverma2128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jasverma2128" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
