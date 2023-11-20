@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasverma-hub" alt="jasverma-hub" /></a> </p>
 
-- 🔭 I’m currently working at **CodeClause**
+- 🔭 I’m currently looking for a opportunity as a Data Engineer
 
 - 🌱 I’m currently learning **SnowFlake and preparing for Amazon AWS Certified Solutions Architect - Associate SAA-C03**
 
