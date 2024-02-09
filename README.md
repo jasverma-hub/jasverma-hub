@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jas Verma</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasverma-hub" alt="jasverma-hub" /></a> </p>
 
-- 🔭 I’m currently looking for a opportunity as a Data Engineer
+- 🔭 I’m currently working as a Technical Product Manager at SeadNxt
 
 - 🌱 I’m currently learning **SnowFlake and preparing for Amazon AWS Certified Solutions Architect - Associate SAA-C03**
 
