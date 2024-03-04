@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jazverma101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OOuPZlR-mPi6nI5zTurun4OSNVeyxoi7/view?usp=sharing](https://drive.google.com/file/d/1OOuPZlR-mPi6nI5zTurun4OSNVeyxoi7/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1qrDP2yBzsyu7ZZ4TnN7yBstnuwCiKI_q/edit?usp=drive_link&ouid=113741645521635966111&rtpof=true&sd=true](https://docs.google.com/document/d/1qrDP2yBzsyu7ZZ4TnN7yBstnuwCiKI_q/edit?usp=drive_link&ouid=113741645521635966111&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
