@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasverma-hub](https://github.com/jasverma-hub)
 
-- 💬 Ask me about **Data Engineering, Python and SQL**
+- 💬 Ask me about **Tech, Python and SQL**
 
 - 📫 How to reach me **jazverma101@gmail.com**
 
