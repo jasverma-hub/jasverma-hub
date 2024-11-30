@@ -12,7 +12,7 @@
 - 👨‍💻 **Projects Showcase:** [GitHub Repository](https://github.com/jasverma-hub)  
 - 💬 **Reach Out About:** **Tech, Python, and SQL**  
 - 📫 **Contact Me:** jazverma101@gmail.com  
-- 📄 **My Resume:** [View Here](https://docs.google.com/document/d/1qrDP2yBzsyu7ZZ4TnN7yBstnuwCiKI_q/edit?usp=drive_link)  
+- 📄 **My Resume:** [View Here](https://docs.google.com/document/d/1ImaOEn5TTU732LQEG3ObVKrp5lk1CuHC/edit?usp=drive_link&ouid=113741645521635966111&rtpof=true&sd=true)  
 
 ---
 
