@@ -27,7 +27,38 @@
 
 ---
 
-<h3 align="left">💻 Languages and Tools</h3>
+<h3>Technologies & Skills</h3>
+
+<p><strong>Languages</strong><br>
+Python, Java, SQL, JavaScript, TypeScript, HTML, CSS
+</p>
+
+<p><strong>Operating Systems</strong><br>
+Windows, Linux
+</p>
+
+<p><strong>Database Technologies</strong><br>
+SQLite, PostgreSQL, MySQL, MongoDB
+</p>
+
+<p><strong>Libraries/Frameworks</strong><br>
+React, AngularJS, Node.js, Django, Flask, Pandas, PyTorch, TensorFlow, SkLearn
+</p>
+
+<p><strong>Tools</strong><br>
+VS Code, Docker, Spring Boot, Power BI, MS Office
+</p>
+
+<p><strong>Cloud Technologies</strong><br>
+AWS, Snowflake, Kubernetes, Airflow, Spark, Kafka
+</p>
+
+<p><strong>Hands-on Skills</strong><br>
+Agile, Scrum, Git/GitHub, Web Development, Automation Engineering
+</p>
+
+<h3>Technologies Icons</h3>
+
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
@@ -40,7 +71,11 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"></a>
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"></a>
+  <a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"></a>
 </p>
+
 
 ---
 
