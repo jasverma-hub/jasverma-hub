@@ -19,7 +19,7 @@
 <h3 align="left">🌐 Connect With Me</h3>
 <p align="left">
   <a href="https://twitter.com/_jazverma" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/jas-verma" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jasvermadataengineer/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/_jasverma" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.hackerrank.com/jazverma101" target="blank"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="https://leetcode.com/jasverma2128" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
