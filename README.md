@@ -7,9 +7,9 @@
 
 ---
 
-- 🔭 **Currently Working As:** Full Stack Engineer at **USNetwork**, Albacete, Spain  
-- 🌱 **Exploring:** **Snowflake** | Preparing for **AWS Certified Solutions Architect - Associate (SAA-C03)**  
-- 👨‍💻 **Projects Showcase:** [Portfolio](https://jasverma.tech/)  
+- 🔭 **Currently Working As:** Full Stack Engineer at **USNetwork**, Albacete, Spain
+- 👨‍💻 **Also Freelancing As:** Full Stack Developer & AI Engineer on **Upwork**
+- 🚀  **Projects Showcase:** [Portfolio](https://jasverma.tech/)  
 - 💬 **Open to discussions on:** **Python, SQL, Full Stack Development, and Data Engineering**  
 - 📫 **Contact Me:** jazverma101@gmail.com  
 - 📄 **My Resume:** [View Here](https://docs.google.com/document/d/1ImaOEn5TTU732LQEG3ObVKrp5lk1CuHC/edit?usp=drive_link&ouid=113741645521635966111&rtpof=true&sd=true)  
