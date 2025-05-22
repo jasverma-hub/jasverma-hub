@@ -12,7 +12,7 @@
 - 🚀  **Projects Showcase:** [Portfolio](https://jasverma.tech/)  
 - 💬 **Open to discussions on:** **Python, SQL, Full Stack Development, and Data Engineering**  
 - 📫 **Contact Me:** jazverma101@gmail.com  
-- 📄 **My Resume:** [View Here](https://docs.google.com/document/d/1ImaOEn5TTU732LQEG3ObVKrp5lk1CuHC/edit?usp=drive_link&ouid=113741645521635966111&rtpof=true&sd=true)
+- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1Aa2Ck_Qcpc8eli354jwvQYjdyCaPGeVN/view?usp=sharing)
 
 ---
 
