@@ -7,10 +7,9 @@
 
 ---
 
-- 🔭 **Currently Working As:** Full Stack Engineer at **USNetwork**, Albacete, Spain
-- 👨‍💻 **Also Freelancing As:** Full Stack Developer & AI Engineer on **Upwork**
+- 🔭 **Currently Working As:** Full Stack Engineer & AI Engineer at **IMH Care**, San Francisco, California, United States
 - 🚀  **Projects Showcase:** [Portfolio](https://jasverma.tech/)  
-- 💬 **Open to discussions on:** **Python, SQL, Full Stack Development, and Data Engineering**  
+- 💬 **Open to discussions on:** **Python, SQL, Full Stack Development, and Artificial Intelligence**  
 - 📫 **Contact Me:** jazverma101@gmail.com  
 - 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1Aa2Ck_Qcpc8eli354jwvQYjdyCaPGeVN/view?usp=sharing)
 
